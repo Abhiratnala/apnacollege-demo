@@ -1,3 +1,3 @@
 # apnacollege-demo
 learning git 
-author: abhi
+author: abhi ratnala
